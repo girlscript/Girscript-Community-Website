@@ -10,6 +10,7 @@
 - [About the Project](#about-the-project) ✨
 - [Technology Stack](#technology-stack) 🛠️
 - [Contribution](#contribution) 🙌
+- [Contributors](#contributors) :v:
 
  ## Overview ⭐
  -  The GirlScript Foundation is a well-acclaimed organization in the EdTech field. 
@@ -43,3 +44,15 @@
 This project is completely Open source. Any willing to contribute can take up an issue or raise a new and work on it after getting assigned.
 
 ---
+## Contributors :v:
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/girlscript/Girscript-Community-Website/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=girlscript/Girscript-Community-Website" />
+      </a>
+		</td>
+	</tr>
+</table>
+
