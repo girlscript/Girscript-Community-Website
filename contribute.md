@@ -1,3 +1,5 @@
+![GitHub custom open for Contribution](https://img.shields.io/static/v1?label=Open%20For&message=Contribution&color=%3CCOLOR%3E)
+
 # Girlscript Community Website
   <div align="center">
   <img align="center" src="Assets\GS_logo_black (1).png" alt="Image of gs"/>
@@ -7,7 +9,7 @@
 
 
 ---
-![GitHub custom open for Contribution](https://img.shields.io/static/v1?label=Open%20For&message=Contribution&color=%3CCOLOR%3E)
+
 <p align="center">
 🎉First off All, thanks for taking the time out of your schedule and deciding to contribute here!👍</p>
 
