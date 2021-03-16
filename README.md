@@ -44,6 +44,7 @@
 This project is completely Open source. Any willing to contribute can take up an issue or raise a new and work on it after getting assigned.
 
 ---
+## All are welcome to contribute. Read [contribution.md](https://github.com/Surajbokde/Nature_Beauty/blob/main/contribution.md) 
 ## Contributors :v:
 
 <table>
