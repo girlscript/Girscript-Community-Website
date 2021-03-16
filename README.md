@@ -1,3 +1,5 @@
+
+
 # Girlscript Community Website
   <div align="center">
   <img align="center" src="Assets/GsLogo.PNG" alt="Image of gs" />
@@ -12,4 +14,5 @@
 - Frontend - React Js
 - Backend - django
 - Database - MongoDb
+
 
