@@ -24,6 +24,9 @@ This will create a copy of this repository in your account.
 
 ![image info](./images/Picture3.png)
 
+
+
+
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
@@ -36,21 +39,14 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 ![image info](./images/Picture4.png)
 
-For example:
-
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
-```
-cd first-contributions
-```
+![image info](./images/Picture4.png)
+
+
 
 Now create a branch using the `git checkout` command:
 
@@ -61,42 +57,37 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b your_branch_name
 ```
-
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open the file, make the changes u want. Now, save the file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you execute the command `git status` on terminal(or git bash), you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add your_file_ name
 ```
 
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "type a message describing your contribution or changes you made"
 ```
 
-replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin add-your-branch-name
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+replacing  `add-your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
@@ -114,11 +105,8 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate your contribution and share it with your friends and followers.
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-kpbyrmkk-JDkRtchcvRvQ0qK4iPmyvA).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
