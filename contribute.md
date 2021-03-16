@@ -1,5 +1,23 @@
+# Girlscript Community Website
+  <div align="center">
+  <img align="center" src="Assets\GS_logo_black (1).png" alt="Image of gs"/>
+  </div>
 
-# First Contributions
+
+
+
+---
+![GitHub custom open for Contribution](https://img.shields.io/static/v1?label=Open%20For&message=Contribution&color=%3CCOLOR%3E)
+<p align="center">
+🎉First off All, thanks for taking the time out of your schedule and deciding to contribute here!👍</p>
+
+
+## Assistance to get started:page_facing_up:
+
+
+If you're new to contributing and have no idea about working with repositories, be sure to check [GitHub docs to getting started](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github) from GitHub may also be helpful to refer.
+
+
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
