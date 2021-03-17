@@ -41,7 +41,7 @@ This will create a copy of this repository in your account.
 ![image info](./Assets/Picture2.png)
 
 
-![image info](./images/Picture3.png)
+![image info](./Assets/Picture3.png)
 
 
 
