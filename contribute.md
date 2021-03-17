@@ -64,7 +64,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 Change to the repository directory on your computer (if you are not already there):
 
-![image info](./Assets/Picture4.png)
+![image info](./Assets/Picture5.png)
 
 
 
