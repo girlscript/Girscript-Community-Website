@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { MenuItems } from "./MenuItems"
+import image from "./GIRLSCRIPT.TECH_.png";
 import { Button } from "./Button"
 import './Navbar.css'
 
@@ -14,7 +15,7 @@ class Navbar extends Component {
     render() {
         return(
             <nav className="NavbarItems">
-                <h1 className="navbar-logo"><img src="./GIRLSCRIPT.TECH_.png"  alt="l"/>Logo<i className="fab fa-react"></i></h1>
+                <h1 className="navbar-logo"><img src={image} className="logo-resizing" alt="l"/><i className="fab fa-react"></i></h1>
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
                 </div>
