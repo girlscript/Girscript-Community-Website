@@ -33,12 +33,12 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
-![image info](./images/Picture1.png)
+![image info](./Assets/Picture1.png)
 
 
 ## Clone the repository
 
-![image info](./images/Picture2.png)
+![image info](./Assets/Picture2.png)
 
 
 
@@ -57,14 +57,14 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-![image info](./images/Picture4.png)
+![image info](./Assets/Picture4.png)
 
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
-![image info](./images/Picture4.png)
+![image info](./Assets/Picture4.png)
 
 
 
