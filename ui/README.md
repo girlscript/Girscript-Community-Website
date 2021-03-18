@@ -1,4 +1,8 @@
 # Post Your Redesigned UI in this folder
+Rules:
+Rename the file as per the format ("website_part-number.extension")
+
+example: home-1.jpg, footer-3.png
 
 ## Previews
 
