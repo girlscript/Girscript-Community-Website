@@ -51,8 +51,8 @@ This project is completely Open source. Any willing to contribute can take up an
 	<tr>
 		<td>
 			<a href="https://github.com/girlscript/Girscript-Community-Website/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=girlscript/Girscript-Community-Website" />
-      </a>
+  <img src="https://contrib.rocks/image?repo=girlscript/Girscript-Community-Website" />
+</a>
 		</td>
 	</tr>
 </table>
