@@ -79,6 +79,31 @@ For example:
 git checkout -b your_branch_name
 ```
 
+## Folder Structure Guidelines for Designers
+Organize your design files in an hierarchy as shown below before making PR
+```
+|-- Assets
+    |-- homepage
+    |    |-- your_name
+    |         |-- file_name.png
+    |         |-- file_name.jpg
+    |-- aboutpage
+    |    |-- your_name
+    |         |-- file_name1.png
+    |         |-- file_name2.png
+    |-- events
+    |-- contact
+    |-- programs
+    |-- footer
+```
+
+<b>Guidelines:</b>
+- Replace *your_name* with your own name
+- You can choose any filename
+- You can submit as many files you want in any format in your own folder(s).
+- Do not make changes in others folder
+- If you want to submit component or page not mentioned here, create an issue regarding the same.
+
 ## Make necessary changes and commit those changes
 
 Now open the file, make the changes u want. Now, save the file.
