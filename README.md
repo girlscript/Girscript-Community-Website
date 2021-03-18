@@ -33,7 +33,7 @@
 
 ## Style Guide 
 
-  ![New_website_gif](./Assets/GirlScript_StyleGuide.png)
+  ![GirlScript_Style_Guide](./Assets/GirlScript_StyleGuide.png)
 
 ---
 
