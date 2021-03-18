@@ -31,7 +31,11 @@
 
   ![New_website_gif](./Assets/girlscript_community_website_new.gif)
 
- ---
+## Style Guide 
+
+  ![New_website_gif](./Assets/GirlScript_StyleGuide.png)
+
+---
 
 ## Technology Stack 🛠️
 - Frontend - React Js
