@@ -6,20 +6,20 @@
   </div>
 
 ## Contents
-- [Overview](#overview) ⭐
-- [About the Project](#about-the-project) ✨
-- [Technology Stack](#technology-stack) 🛠️
-- [Contribution](#contribution) 🙌
-- [Contributors](#contributors) :v:
+- [Overview](#overview)
+- [About the Project](#about-the-project) 
+- [Technology Stack](#technology-stack)
+- [Contribution](#contribution)
+- [Contributors](#contributors)
 
- ## Overview ⭐
+## Overview
  -  The GirlScript Foundation is a well-acclaimed organization in the EdTech field. 
  - It has been successfully equipping modern youth with the new age technologies that are revolutionising the world today.
  -  It is a non-profit project brought to you by GirlScript Foundation to help beginners in technology .
  
  ---
 
- ## About the Project ✨
+## About the Project
 
  The objective is to develop the GirlScript Community website from scratch.
 
@@ -33,19 +33,19 @@
 
  ---
 
-## Technology Stack 🛠️
+## Technology Stack
 - Frontend - React Js
 - Backend - django
 - Database - MongoDb
 
 ---
-## Contribution 🙌
+## Contribution
 
 This project is completely Open source. Any willing to contribute can take up an issue or raise a new and work on it after getting assigned.
 
 ---
 ## All are welcome to contribute. Read [contribute.md](contribute.md) 
-## Contributors :v:
+## Contributors
 
 <table>
 	<tr>
