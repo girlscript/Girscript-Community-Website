@@ -2,7 +2,7 @@
 
 # Girlscript Community Website
   <div align="center">
-  <img align="center" src="Assets\GS_logo_black (1).png" alt="Image of gs"/>
+  <img align="center" src="assets\GS_logo_black (1).png" alt="Image of gs"/>
   </div>
 
 
@@ -33,15 +33,15 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
-![image info](./Assets/Picture1.png)
+![image info](./assets/Picture1.png)
 
 
 ## Clone the repository
 
-![image info](./Assets/Picture2.png)
+![image info](./assets/Picture2.png)
 
 
-![image info](./Assets/Picture3.png)
+![image info](./assets/Picture3.png)
 
 
 
@@ -56,14 +56,14 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-![image info](./Assets/Picture4.png)
+![image info](./assets/Picture4.png)
 
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
-![image info](./Assets/Picture5.png)
+![image info](./assets/Picture5.png)
 
 
 
@@ -82,7 +82,7 @@ git checkout -b your_branch_name
 ## Folder Structure Guidelines for Designers
 Organize your design files in an hierarchy as shown below before making PR
 ```
-|-- Assets
+|-- assets
     |-- homepage
     |    |-- your_name
     |         |-- file_name.png
@@ -137,11 +137,11 @@ replacing  `add-your-branch-name` with the name of the branch you created earlie
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-![image info](./Assets/img1.png)
+![image info](./assets/img1.png)
 
 Now submit the pull request.
 
-![image info](./Assets/img2.png)
+![image info](./assets/img2.png)
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 

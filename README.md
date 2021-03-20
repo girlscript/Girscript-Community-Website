@@ -3,7 +3,7 @@
 # Girlscript Community Website
 
   <div align="center">
-	 <img align="center" src="Assets\GS_logo_black (1).png" alt="Image of gs"/>
+	 <img align="center" src="assets\GS_logo_black (1).png" alt="Image of gs"/>
   </div>
 
 
@@ -35,7 +35,7 @@
 
   This is how the final website should look like : 
 
-  ![New_website_gif](./Assets/girlscript_community_website_new.gif)
+  ![New_website_gif](./assets/girlscript_community_website_new.gif)
 
  ---
 
