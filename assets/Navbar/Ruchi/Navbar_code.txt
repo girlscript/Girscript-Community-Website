@@ -1,0 +1,87 @@
+<html>
+<head><link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<body>
+<style>
+.mine{
+  position:absolute;
+      top: 15px;
+      left: 20px;
+      z-index: 1;
+    }
+
+ul#nav li{
+	display:inline;
+	padding:7.5px;
+
+}
+li a {
+  color: black;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size:18px;
+font-family: 'Open Sans', sans-serif;
+ text-align: center;
+    float: none;
+    display: horizontal;
+    width: 100%;
+}
+
+li a:hover {
+  padding: 10px;
+  box-shadow:rgba(255,102,0);
+}
+div.fixed {
+  background: #fff;
+  text-align: left;
+  margin-top:23px;
+  position: fixed;
+  bottom: 510;
+  right: 420;
+  width:550px;
+  height:40px;
+  border:black;
+}
+.fixed a{ 
+  text-align: center;
+
+}
+.rightnav a{
+  font-size:18px;
+  float: right;
+  margin-top:23px;
+  margin-right: 25px;
+  width:130px;
+  margin-height:50px;
+border-radius: 10px;
+background: #FA9348;
+    color: black;
+  }
+  li a:hover {
+    padding:10px;
+     box-shadow: 0 0 20px 0 rgba(104,221,225);
+  }
+  ul#ri li{
+  display:inline;
+  padding:7.5px;
+}
+</style>
+</head>
+<div class="fixed">
+<ul id="nav">
+  <li><a class="active" href="#About">About</a></li>
+  <li><a href="#Event">Event</a></li>
+  <li><a href="#Program">Program</a></li>
+  <li><a href="#Contact">Contact</a></li>
+  <li><a href="#Login">Login</a></li>
+</ul>
+</div>
+<div class="rightnav">
+<ul id="ri">
+<li><a href="#Join us">Join us</a><li>
+<li><a href="#Donate Now">Donate Now</a></li>
+</div>
+<div class="mine">
+<img src="Assets/GS_logo_black (1).png" width="300" height="100" align="left">
+</div>
+</body>
+</html>
