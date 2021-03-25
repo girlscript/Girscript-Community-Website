@@ -1,50 +1,66 @@
 
 
 # Girlscript Community Website
+
   <div align="center">
-  <img align="center" src="Assets\GS_logo_black (1).png" alt="Image of gs"/>
+	 <img align="center" src="assets\GS_logo_black (1).png" alt="Image of gs"/>
   </div>
 
-## Contents
-- [Overview](#overview) ⭐
-- [About the Project](#about-the-project) ✨
-- [Technology Stack](#technology-stack) 🛠️
-- [Contribution](#contribution) 🙌
-- [Contributors](#contributors) :v:
 
- ## Overview ⭐
- -  The GirlScript Foundation is a well-acclaimed organization in the EdTech field. 
+## Contents
+
+- [Overview](#overview)
+- [About the Project](#about-the-project) 
+- [Technology Stack](#technology-stack)
+- [Contribution](#contribution)
+- [Contributors](#contributors)
+
+
+## Overview
+
+ - The GirlScript Foundation is a well-acclaimed organization working towards introducing newbies to tech. 
  - It has been successfully equipping modern youth with the new age technologies that are revolutionising the world today.
- -  It is a non-profit project brought to you by GirlScript Foundation to help beginners in technology .
+ -  It is a non-profit project brought to you by GirlScript Foundation to help beginners in the field of technology .
  
  ---
 
- ## About the Project ✨
+
+## About the Project
 
  The objective is to develop the GirlScript Community website from scratch.
 
  This project is also listed as one of the projects of **[GirlScript Summer of Code 2021](https://gssoc.girlscript.tech/index.html)**.
 
- Check out the current version of the website [here](https://www.girlscript.tech/home). 
+ Check out the current version of the website at [https://www.girlscript.tech](https://www.girlscript.tech/home). 
 
-  This is how the final product should look like : 
+  This is how the final website should look like : 
 
-  ![New_website_gif](Assets\girlscript_community_website_new.gif)
+  ![New_website_gif](./assets/girlscript_community_website_new.gif)
 
- ---
+---
 
-## Technology Stack 🛠️
+
+## Technology Stack
+
+ <img src="https://img.shields.io/badge/ReactJS%20-%2320232a.svg?logo=react" > <img src="https://img.shields.io/badge/-Django-darkgreen?logo=django" > <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB">
+
 - Frontend - React Js
-- Backend - django
+- Backend - Django
 - Database - MongoDb
 
 ---
-## Contribution 🙌
 
-This project is completely Open source. Any willing to contribute can take up an issue or raise a new and work on it after getting assigned.
+
+## Contribution
+
+This project is an Open source project. Anyone willing to contribute can take up an already opened issue or raise a new issue and work on it after getting assigned.
 
 ---
-## Contributors :v:
+
+
+## Contributors
+
+Everyone is welcome to contribute. Please make sure to follow our guidelines mentioned at [contribute.md](contribute.md)
 
 <table>
 	<tr>
