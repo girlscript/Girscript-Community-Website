@@ -18,7 +18,7 @@
 
 ## Overview
 
- - The GirlScript Foundation is a well-acclaimed organization in the EdTech field. 
+ - The GirlScript Foundation is a well-acclaimed organization working towards introducing newbies to tech. 
  - It has been successfully equipping modern youth with the new age technologies that are revolutionising the world today.
  -  It is a non-profit project brought to you by GirlScript Foundation to help beginners in the field of technology .
  
