@@ -5,27 +5,27 @@ import scomma from "./../images/scomma.png";
 import andrea from "./../images/andrea.png";
 
 const details = [{
-    comma:{ocomma},
+    comma:ocomma,
     description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
-    imgurl:{andrea},
+    imgurl:andrea,
     name:"Andrea Cloe",
     textcolor:"black",
     bgcolor:"white"
 },
 
 {
-    comma:{scomma},
+    comma:scomma,
     description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    imgurl:{andrea},
+    imgurl:andrea,
     name:"Andrea Cloe",
     textcolor:"#FFC6A6",
     bgcolor:"#FF5200"
 },
 
 {
-    comma:{ocomma},
+    comma:ocomma,
     description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
-    imgurl:{andrea},
+    imgurl:andrea,
     name:"Andrea Cloe",
     textcolor:"black",
     bgcolor:"white"
