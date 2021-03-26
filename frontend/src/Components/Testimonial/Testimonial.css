@@ -15,7 +15,7 @@
     font-size:26px;
     color:#FF5200;
     padding-top:120px;
-    padding-bottom:30px;
+    padding-bottom:50px;
     font-weight: bold;
     
     
@@ -27,8 +27,8 @@
     font-weight: bold;
   }
   .card{
-  height:270px;
-  width:200px;
+  height:400px;
+  width:300px;
   padding:50px;
   margin:75px;
   box-shadow: 10px 10px 20px #FF5200 ;

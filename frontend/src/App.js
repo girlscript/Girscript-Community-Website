@@ -3,11 +3,9 @@ import { Fragment } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "semantic-ui-css/semantic.min.css";
 import './App.css';
-<<<<<<< HEAD
+
 import Testimonial from './Components/Testimonial/Testimonial';
-=======
-// Pages Import
->>>>>>> 12edc35ff53130389739aac070996b762f41a7c6
+
 
 import HomePage from "./Pages/Homepage"
 const App = () => {
@@ -21,6 +19,7 @@ const App = () => {
         </Router>
       </div>
     </Fragment>
+   
   );
 };
 
