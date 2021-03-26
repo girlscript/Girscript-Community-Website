@@ -1,6 +1,6 @@
 import React from "react";
 import style from "./mission.module.css";
-import arrayCards from "./dummy";
+import arrayCards from "../../Test_data/Mission";
 
 const Mission = () => {
   return (
