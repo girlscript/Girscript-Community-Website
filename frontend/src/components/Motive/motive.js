@@ -1,33 +1,8 @@
 import React from "react";
 import style from "./motive.module.css";
+import arrayCards from "./dummy";
 
 const Motive = () => {
-  const arrayCards = [
-    [
-       "AWARENESS ABOUT TECH",
-       "Help us reach tier-two and tier-three cities",
-    ],
-    [
-        "AWARENESS ABOUT TECH",
-        "Help us reach tier-two and tier-three cities",
-    ],
-    [
-        "AWARENESS ABOUT TECH",
-        "Help us reach tier-two and tier-three cities",
-    ],
-    [
-        "AWARENESS ABOUT TECH",
-        "Help us reach tier-two and tier-three cities",
-    ],
-    [
-        "AWARENESS ABOUT TECH",
-        "Help us reach tier-two and tier-three cities",
-    ],
-    [
-        "AWARENESS ABOUT TECH",
-        "Help us reach tier-two and tier-three cities",
-    ],
-  ];
   return (
     <main>
       <div id={style["hero"]}>
