@@ -1,71 +1,38 @@
+.App {
+  text-align: center;
+}
 
-.cards{
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
-  flex-wrap:wrap;
-  height:auto;
-  width:auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
-.testimonial{
-  height:auto;
-  width:100%;
-  background-position: fixed;
-  background-repeat: no-repeat;
-  text-align:center;
 
+.App-link {
+  color: #61dafb;
 }
-.our-mission{
-  font-size:26px;
-  color:#FF5200;
-  padding-top:120px;
-  padding-bottom:30px;
-  font-weight: bold;
-  
-  
-}
-.our-test{
-  font-size:56px;
-  color:black;
-  padding-bottom:70px;
-  font-weight: bold;
-}
-.card{
-height:270px;
-width:200px;
-padding:50px;
-margin:75px;
-box-shadow: 10px 10px 20px #FF5200 ;
-border:1px solid #FFC6A6;
 
-}
-.card:hover{
-  transform: scale(1.09);
-  transition:all ease-in 1s;
-}
-.comma{
-height:70px;
-width:70px;
-float:left;
-
-
-}
-.description{
-font-size:14px;
-text-align:left;
-margin-top:30px;
-}
-.pic-name{
-  display: flex;
-  margin-top:40px;
-
-  
-}
-.image{
-  height:100px;
-  width:100px;
-  border-radius: 50%;
-}
-.name{
-  font-size:16px;
-  margin-top:50px;
-  margin-left:10px;
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
