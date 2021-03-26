@@ -1,6 +1,7 @@
 import React from "react";
 import Cards from "./Cards";
-import image from "../images/bg.png";
+import image from "../../images/bg.png";
+import "./Testimonial.css";
 const Testimonial = () =>{
     return(
 <div className="testimonial" style={{backgroundImage:`url(${image})`}}>

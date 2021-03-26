@@ -1,8 +1,8 @@
 import React from "react";
 import Cardtemplate from "./Cardtemplate";
-import ocomma from "./../images/ocomma.png";
-import scomma from "./../images/scomma.png";
-import andrea from "./../images/andrea.png";
+import ocomma from "./../../images/ocomma.png";
+import scomma from "./../../images/scomma.png";
+import andrea from "./../../images/andrea.png";
 
 const details = [{
     comma:ocomma,
