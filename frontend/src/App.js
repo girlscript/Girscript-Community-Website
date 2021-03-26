@@ -1,12 +1,23 @@
 // import logo from './logo.svg';
+import { Fragment } from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import "semantic-ui-css/semantic.min.css";
 import './App.css';
+// Pages Import
+import Mission from "./Components/Mission/mission";
 
-function App() {
+const App = () => {
   return (
-    <>
-      <h1>App.js</h1>
-    </>
+    <Fragment>
+      <div className="Container">
+        <Router>
+          <Switch>
+            <Route exact path="/" component={Mission} />
+          </Switch>
+        </Router>
+      </div>
+    </Fragment>
   );
-}
+};
 
 export default App;
