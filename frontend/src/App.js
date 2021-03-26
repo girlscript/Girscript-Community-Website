@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "semantic-ui-css/semantic.min.css";
 import './App.css';
 // Pages Import
-import Motive from "./components/Motive/motive";
+import Motive from "./Components/Motive/motive";
 
 const App = () => {
   return (
