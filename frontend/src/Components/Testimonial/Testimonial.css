@@ -3,12 +3,12 @@
     flex-wrap:wrap;
     height:auto;
     width:auto;
+    justify-content:space-around;
   }
   .testimonial{
     height:auto;
     width:100%;
     text-align:center;
-  
   }
   .our-mission{
     font-size:26px;
