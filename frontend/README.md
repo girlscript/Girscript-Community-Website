@@ -17,7 +17,7 @@
  6.Go to your Web Browser and type 
  `http://localhost:3000`
 
- Hurrah!! You have locally deplyed the Frontend of the Website
+ Hurrah!! You have locally deployed the Frontend of the Website
 
 
 
