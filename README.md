@@ -12,6 +12,7 @@
 - [Overview](#overview)
 - [About the Project](#about-the-project) 
 - [Technology Stack](#technology-stack)
+- [Getting Started with Frontend](#frontend)
 - [Contribution](#contribution)
 - [Contributors](#contributors)
 
@@ -50,6 +51,31 @@
 
 ---
 
+## Getting Started with Frontend
+
+## 1. After cloning the directory
+`https://github.com/girlscript/Girscript-Community-Website.git`
+
+## 1.Go to the folder where you cloned the repository GirlScript-Community-Website
+
+## 2.Go inside GirlScript-Community-Website directory
+### `cd GirlScript-Community-Website`
+
+## 3.Go inside frontend directory
+### `cd frontend`
+
+## 4.Installing node_modules
+### `npm install`
+
+## 5.Starting up the server
+### `npm start`
+
+## 6.Go to your Web Browser and type 
+### `http://localhost:3000`
+
+## Hurrah!! You have locally deplyed the Frontend of the Website
+
+---
 
 ## Contribution
 

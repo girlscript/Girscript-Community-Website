@@ -8,24 +8,18 @@
 ## 3.Go inside frontend directory
 ### `cd frontend`
 
-## 4.installing create-react-app
-### `npm install create-react-app`
-
-## 5.Installing node_modules
+## 4.Installing node_modules
 ### `npm install`
 
-## 6.Starting up the server
+## 5.Starting up the server
 ### `npm start`
 
-## 2.Go to your Web Browser and type 
+## 6.Go to your Web Browser and type 
 ### `http://localhost:3000`
 
 ## Hurrah!! You have locally deplyed the Frontend of the Website
 
 
 
-# For getting Started with Create React App from Scratch
-
-## Check out [Create React App](https://github.com/facebook/create-react-app).
 
 
