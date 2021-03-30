@@ -11,11 +11,11 @@ const Common = (props) => {
               <div className="row">
                 <div className=" col-sm-8 order-1 order-lg-1 d-flex justify-content-center flex-column">
                   <Group>
-                    <Ellipse1></Ellipse1>
-                    <Ellipse2></Ellipse2>
-                    <Ellipse3></Ellipse3>
-                    <Ellipse4></Ellipse4>
-                    <Ellipse5></Ellipse5>
+                    <Ellipse1/>
+                    <Ellipse2/>
+                    <Ellipse3/>
+                    <Ellipse4/>
+                    <Ellipse5/>
                   </Group>
                   <Heading>
                     <b>
