@@ -1,5 +1,5 @@
 import React from "react";
-import Cards from "./Card";
+import Cards from "./Card1";
 import image from "../../images/bg.png";
 import "./Testimonial.css";
 const Testimonial = () =>{
