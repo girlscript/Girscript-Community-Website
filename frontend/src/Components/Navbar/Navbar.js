@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import "./navbar.css";
 import Logo from "./GS_logo_black(1).png";
 
@@ -49,30 +48,11 @@ const Navbar = () => {
             </a>
           </li>
         </ul>
-        <Button className="btn" type="submit">
-          Donate Now
-        </Button>
-        <Button className="btn" type="submit">
-          Join Us
-        </Button>
+        <a href="#" className="button">Donate Now</a>
+        <a href="#" className="button">Join Us</a>
       </div>
     </nav>
   );
 };
-
-const Button = styled.button`
-    width: 160px;
-    border-radius: 10px;
-    background-color: #e05d00;
-    font-size: 1.2em;
-    margin: 10px;
-    color: white;
-    height: 50px;
-
-    &:hover {
-    background-color: white;
-    color: #e05d00;
-    }
-`; 
 
 export default Navbar;

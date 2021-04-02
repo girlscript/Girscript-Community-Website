@@ -27,17 +27,20 @@
     background-color: #e05d00;
   }
 
-  .botton{
+  .button{
     width: 160px;
     border-radius: 10px;
     background-color: #e05d00;
-    font-size: 2em;
+    font-size: 1.2em;
     margin: 10px;
     color: white;
-    height: 40px;
+    height: 50px;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
   }
   
-  .botton:hover {
+  .button:hover {
     background-color: white;
     color: #e05d00;
   }
