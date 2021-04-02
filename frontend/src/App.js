@@ -6,6 +6,7 @@ import './App.css';
 // Pages Import
 
 import HomePage from "./Pages/Homepage"
+import Footer from "./Components/Footer/footer"
 const App = () => {
   return (
     <Fragment>
@@ -14,6 +15,7 @@ const App = () => {
           <Switch>
             <Route exact path="/" component={HomePage} />
           </Switch>
+          <Footer/>
         </Router>
       </div>
     </Fragment>
