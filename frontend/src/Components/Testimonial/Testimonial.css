@@ -1,0 +1,68 @@
+.cards{
+    display: flex;
+    flex-wrap:wrap;
+    height:auto;
+    width:auto;
+    justify-content:space-around;
+  }
+  .testimonial{
+    height:auto;
+    width:100%;
+    text-align:center;
+  }
+  .our-mission{
+    font-size:26px;
+    color:#FF5200;
+    padding-top:120px;
+    padding-bottom:50px;
+    font-weight: bold;
+    
+    
+  }
+  .our-test{
+    font-size:56px;
+    color:black;
+    padding-bottom:70px;
+    font-weight: bold;
+  }
+  .card{
+  height:400px;
+  width:300px;
+  padding:50px;
+  margin:75px;
+  box-shadow: 10px 10px 20px #FF5200 ;
+  border:1px solid #FFC6A6;
+  
+  }
+  .card:hover{
+    transform: scale(1.09);
+    transition:all ease-in 1s;
+  }
+  .comma{
+  height:70px;
+  width:70px;
+  float:left;
+  
+  
+  }
+  .description{
+  font-size:14px;
+  text-align:left;
+  margin-top:30px;
+  }
+  .pic-name{
+    display: flex;
+    margin-top:40px;
+  
+    
+  }
+  .image{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+  }
+  .name{
+    font-size:16px;
+    margin-top:50px;
+    margin-left:10px;
+  }
