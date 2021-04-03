@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  height: 100%;
+  background: linear-gradient(90deg, white 50%, #f1a363 50%);
+}
+
+.image1-content {
+  float:left;
+  border-radius:10%;
+  overflow:hidden;
+  left: 80px;
+  position: absolute;
+}
+
+.dashes {
+  background-image: repeating-linear-gradient(-45deg,
+  transparent 0 20px,
+  black 1% 22px);
+} 
+
+ .text-card {
+  font-family: "Montserrat";
+  float:right;
+  width: 400px;
+  height: 250px;
+  background-color: #F7E3D3;
+  padding: 5px 5px 5px 0px;
+  border-radius: 6%;
+  position: relative;
+  top:110px;
+  right: 140px;
+  text-align: center;
+ }
+
+ .button-class {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  background-color: rgb(250, 52, 2);
+ }
