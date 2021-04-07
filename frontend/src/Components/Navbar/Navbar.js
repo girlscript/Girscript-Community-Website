@@ -1,7 +1,7 @@
 import React from "react";
 import "./navbar.css";
 import Logo from "./GS_logo_black(1).png";
-
+import {Link} from "react-router-dom"
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light">
@@ -43,9 +43,9 @@ const Navbar = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <Link style={{fontSize:20, textDecoration:"none",color:"gray"}} to="/Login">
               Login
-            </a>
+            </Link>
           </li>
         </ul>
         <a href="#" className="button">Donate Now</a>

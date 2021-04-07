@@ -11,6 +11,7 @@ const HomePage = () => {
     return (
         <>
             <Navbar/>
+            
             <About/>
             <Mission />
             <Newsletter />

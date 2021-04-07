@@ -3,6 +3,7 @@ import { Fragment } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "semantic-ui-css/semantic.min.css";
 import './App.css';
+import Login from "./Components/Login/Login"
 // Pages Import
 
 import HomePage from "./Pages/Homepage"
@@ -14,6 +15,7 @@ const App = () => {
         <Router>
           <Switch>
             <Route exact path="/" component={HomePage} />
+            <Route exact path="/Login" component={Login} />
           </Switch>
           <Footer/>
         </Router>
