@@ -1,14 +1,23 @@
-.login{
-   background-image: linear-gradient(orangered, orange, white) ;
 
+.login{
+   /* background-image: linear-gradient(orangered, orange, white) ; */
+    background-image: url("../../images/login_bg.png");
+    padding:100px;
 }
 .login-form{
-padding-top:100px;
-padding-bottom:60px;
+padding:50px;
+border: 2px solid black;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+background-color:white;
+height:50%;
+width:50%;
+background-image:linear-gradient(gray, white);
+box-shadow:5px 5px 50px black;
+
 }
 .form-title{
     font-size: 60px;
-    margin:50px;
     text-align: center;
     color:black;
     font-weight: bold;
@@ -27,7 +36,7 @@ outline: none;
 font-size: 22px;
 padding:20px;
 height:60px;
-    width:300px;
+    width:400px;
     font-weight:bold;
     color:orangered;
 }

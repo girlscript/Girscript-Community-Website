@@ -1,17 +1,17 @@
-import { faFileExcel } from "@fortawesome/free-solid-svg-icons";
 import React from "react"
 import "./Login.css"
 import Navbar from "../Navbar/Navbar"
+import image from "../../images/loginbg.png"
 function Login(){
-    
+   
     return(
        <div>
             <Navbar />
-        <div className="login">
+        <div className="login" >
             
            <center>
            <form className="login-form">
-                <div className="form-title">
+             <div className="form-title" >
         Log <span style={{color:"white"}}>In</span>
                 </div>
                 <label className="fill-name">Email</label><br></br>
