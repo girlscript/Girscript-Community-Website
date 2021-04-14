@@ -3,9 +3,9 @@ import "./navbar.css";
 import Logo from "./GS_logo_black(1).png";
 import {Nav, Navbar} from 'react-bootstrap'
 
-const Navbarr = () => {
-  return(
-    <Navbar bg="light" expand="lg">
+const NavComp = () =>{
+    return(
+        <Navbar bg="light" expand="lg">
   <Navbar.Brand href="#home">
   <a className="navbar-brand" href="#">
     <img src={Logo} alt="logo" className="image" />
@@ -27,7 +27,6 @@ const Navbarr = () => {
     </div>
   </Navbar.Collapse>
 </Navbar>
-  );
+    );
 };
-
-export default Navbarr;
+export default NavComp;
