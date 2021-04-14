@@ -1,7 +1,7 @@
 import React from "react"
 import "./Login.css"
-import Navbar from "../Navbar/Navbar"
-import image from "../../images/loginbg.png"
+import Navbar from "../Navbar/Navbarr"
+
 function Login(){
    
     return(
