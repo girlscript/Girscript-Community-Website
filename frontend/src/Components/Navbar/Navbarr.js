@@ -1,7 +1,6 @@
 import React from "react";
 import "./navbar.css";
 import Logo from "./GS_logo_black(1).png";
-import {Link} from "react-router-dom"
 import {Nav, Navbar} from 'react-bootstrap'
 
 const Navbarr = () => {
@@ -11,6 +10,7 @@ const Navbarr = () => {
   <a className="navbar-brand" href="#">
     <img src={Logo} alt="logo" className="image" />
       </a>
+
   </Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
@@ -19,7 +19,7 @@ const Navbarr = () => {
       <Nav className="nav-link">Event</Nav>
       <Nav className="nav-link">Program</Nav>
       <Nav className="nav-link">Contact</Nav>
-      <Link style={{ textDecoration:"none",color:"gray"}} to="/Login"><Nav className="nav-link">Login</Nav></Link>
+      <Nav className="nav-link">Login</Nav>
     </Nav>
     <div className="mob-show">
     <div><a href="#" className="button">Donate Now</a></div>
