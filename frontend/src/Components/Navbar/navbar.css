@@ -51,6 +51,9 @@
     .nav-link{
       text-align: center;
     }
+    .image{
+      margin-left: 41vw;
+    }
     .mob-show{
       display: flex;
       flex-direction: column;
