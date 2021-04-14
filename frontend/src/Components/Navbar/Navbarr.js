@@ -21,12 +21,13 @@ const Navbarr = () => {
       <Nav className="nav-link">Contact</Nav>
       <Link style={{ textDecoration:"none",color:"gray"}} to="/Login"><Nav className="nav-link">Login</Nav></Link>
     </Nav>
-    <a href="#" className="button">Donate Now</a>
-      <a href="#" className="button">Join Us</a>
+    <div className="mob-show">
+    <div><a href="#" className="button">Donate Now</a></div>
+      <div><a href="#" className="button">Join Us</a></div>
+    </div>
   </Navbar.Collapse>
 </Navbar>
   );
-
 };
 
 export default Navbarr;
