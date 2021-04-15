@@ -7,6 +7,7 @@ import React, { PureComponent } from 'react';
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
 // Pages Import
 import HomePage from "./Pages/Homepage"
+import Footer from "./Components/Footer/footer"
 const App = () => {
  
   const data01 = [
@@ -23,12 +24,14 @@ const App = () => {
         <Router>
           <Switch>
             <Route exact path="/" component={HomePage} />
+  
           </Switch>
+          <Footer/>
         </Router>
       </div>
 
 
-      <h1 className="our_impact" >OUR IMPACT</h1>
+      <h1 className="our_impact" ><b>OUR IMPACT</b></h1>
       
       <div className="our_impact_outerdiv" >
       
@@ -58,7 +61,7 @@ const App = () => {
         {/*  */}
         
       
-        <ResponsiveContainer width="100%" height="70%">
+        <ResponsiveContainer width="100%" height="62%">
         <PieChart width={400} height={400}>
           <Pie data={data01} dataKey="value" cx="50%" cy="50%" outerRadius={60} fill="#9844d8" />
         </PieChart>
@@ -70,7 +73,7 @@ const App = () => {
       </div>
 
 
-      <h1 className="our_community" >OUR COMMUNITY</h1>
+      <h1 className="our_community" ><b>OUR COMMUNITY</b></h1>
       
       <div className="our_community_outerdiv" >
       
