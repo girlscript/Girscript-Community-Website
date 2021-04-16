@@ -1,5 +1,7 @@
 import React from 'react';
 import Mission from "../Components/Mission/Mission";
+import Impact from "../Components/ourImpact/ourImpact"
+import Community from "../Components/ourCommunity/ourCommunity"
 import Testimonial from "../Components/Testimonial/Testimonial"
 import About from "../Components/Common/About"
 import Newsletter from "../Components/Common/Newsletter"
@@ -14,6 +16,8 @@ const HomePage = () => {
             
             <About/>
             <Mission />
+            <Impact />
+            <Community/>
             <Newsletter />
             <Testimonial />
             <Join />
