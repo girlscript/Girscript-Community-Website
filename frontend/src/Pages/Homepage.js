@@ -1,20 +1,28 @@
 import React from 'react';
 import Mission from "../Components/Mission/Mission";
-import Testimonial from "../Components/Testimonial/Testimonial";
-import About from "../Components/Common/About";
-import Newsletter from "../Components/Common/Newsletter";
-import Join from "../Components/Common/Join";
+import Impact from "../Components/ourImpact/ourImpact"
+import Community from "../Components/ourCommunity/ourCommunity"
+import Testimonial from "../Components/Testimonial/Testimonial"
+import About from "../Components/Common/About"
+import Newsletter from "../Components/Common/Newsletter"
+import Join from "../Components/Common/Join"
+import Navbar from "../Components/Navbar/Navbar"
+import ScrollTop from "../Components/ScrollTop/ScrollTop";
 import Upcomingeve from "../Components/Upcomingeve/Upcomingeve";
-
 const HomePage = () => {
     return (
         <>
+            <Navbar/>
+            
             <About/>
             <Mission />
+            <Impact />
+            <Community/>
             <Newsletter />
             <Upcomingeve/>
             <Testimonial />
             <Join />
+            <ScrollTop />
         </>
     )
 
