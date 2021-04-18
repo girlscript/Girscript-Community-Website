@@ -12,6 +12,7 @@
 - [Overview](#overview)
 - [About the Project](#about-the-project) 
 - [Technology Stack](#technology-stack)
+- [Getting Started with Frontend](#frontend)
 - [Contribution](#contribution)
 - [Contributors](#contributors)
 
@@ -50,6 +51,22 @@
 
 ---
 
+##  Getting Started 👨‍💻
+### Setup the repository to your local environment.
+
+1. `fork` the repository  - Creates a replica of repository to your local environment.
+2. Clone the repository using `git clone https://github.com/girlscript/Girscript-Community-Website.git`  - Downloads all repo files to your machine.
+3. `cd Community-Website`  - Takes you to the root directory of the project.
+
+## Frontend ⚛️
+
+Following are the steps to run the frontend of the community-website on your local. All the frontend code will go in the `frontend` directory. 
+
+1. Navigate to `frontend` folder using `cd frontend`.
+2. Run `npm install`. It will install all the required packages and dependencies.
+3. Run `npm start` to run the server.
+4. Navigate to [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
 ## Contribution
 

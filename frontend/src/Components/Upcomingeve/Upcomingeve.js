@@ -12,7 +12,7 @@ const Upcomingeve = () => {
             <Carousel fade className = "bgstyling">
 
                 <Carousel.Item>
-                <h3> Upcoming events 👉 frontend</h3>  
+                <h3> Upcoming events 👉 </h3>  
                 <Upcomingevents />
                 </Carousel.Item>
                 <Carousel.Item>
