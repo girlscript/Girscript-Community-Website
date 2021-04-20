@@ -7,6 +7,7 @@ import React, { PureComponent } from 'react';
 // Pages Import
 import HomePage from "./Pages/Homepage"
 import Footer from "./Components/Footer/footer"
+import NotFoundPage from './Components/404/404';
 const App = () => {
   return (
     <Fragment>
@@ -14,7 +15,7 @@ const App = () => {
         <Router>
           <Switch>
             <Route exact path="/" component={HomePage} />
-  
+            <Route path="" component={NotFoundPage} />
           </Switch>
           <ourImpact/>
           <Footer/>
