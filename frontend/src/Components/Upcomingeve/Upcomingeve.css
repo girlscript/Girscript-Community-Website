@@ -7,6 +7,10 @@
     text-align: center;
     box-shadow: 10px 10px 20px #55afa6; ;
 }
+#upcomingeve:hover{
+    box-shadow: 0px 30px 18px -8px  #f5d5b6;;
+    transform: scale(1.05,1.05);
+}
 #txtstyling{
     font-size:50px;
     color:rgb(0, 0, 0);
