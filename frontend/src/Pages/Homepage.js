@@ -8,7 +8,9 @@ import Newsletter from "../Components/Common/Newsletter"
 import Join from "../Components/Common/Join"
 import Navbar from "../Components/Navbar/Navbar"
 import ScrollTop from "../Components/ScrollTop/ScrollTop";
+
 import Upcomingeve from "../Components/Upcomingeve/Upcomingeve";
+
 const HomePage = () => {
     return (
         <>
