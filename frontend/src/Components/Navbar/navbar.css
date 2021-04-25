@@ -41,9 +41,33 @@
     padding: 10px;
     text-align: center;
   }
-  
+  .mob-show{
+    display: flex;
+      flex-direction: row;
+  }
   .button:hover {
     background-color: white;
     color: #e05d00;
+  }
+  @media screen and (max-width:768px){
+    .nav-link{
+      text-align: center;
+    }
+    .image{
+      margin-left: 50%;
+    }
+    .mob-show{
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      padding:10px;
+    }
+    .mob-show div:nth-child(1){
+      padding:10px;
+    }
+    .mob-show div:nth-child(2){
+      padding:20px;
+    }
+
   }
   

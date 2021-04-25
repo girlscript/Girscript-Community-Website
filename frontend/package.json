@@ -13,11 +13,13 @@
     "bootstrap": "^5.0.0-alpha1",
     "chokidar": "^2.1.8",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "semantic-ui-css": "^2.4.1",
+    "start": "^5.1.0",
     "styled-components": "^5.2.1",
     "web-vitals": "^1.1.1"
   },

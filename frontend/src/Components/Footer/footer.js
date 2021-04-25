@@ -74,7 +74,7 @@ const Footer = () => {
               <ul className={style["social"]}>
                 <li>
                   <a
-                    href="/"
+                    href="https://www.facebook.com/Girlscript"
                     target="_blank"
                     rel="noopener noreferrer"
                   ><FontAwesomeIcon icon={faFacebook} size="lg" style={{ color: "#fff" }}/>
@@ -82,7 +82,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/"
+                    href="https://twitter.com/girlscript1"
                     target="_blank"
                     rel="noopener noreferrer"
                   ><FontAwesomeIcon icon={faTwitter} size="lg" style={{ color: "#fff" }}/>
@@ -90,7 +90,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/"
+                    href="mailto:community@girlscript.tech"
                     target="_blank"
                     rel="noopener noreferrer"
                   ><FontAwesomeIcon icon={faEnvelope} size="lg" style={{ color: "#fff" }}/>

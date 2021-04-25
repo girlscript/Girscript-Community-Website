@@ -1,8 +1,8 @@
-import React from "react";
-import "./navbar.css";
-import Logo from "./GS_logo_black(1).png";
+import React from "react"
+import NavComp from "./NavComp.js"
 
 const Navbar = () => {
+
   return (
     <nav className="navbar navbar-expand-lg navbar-light">
       <a className="navbar-brand" href="#">
@@ -67,6 +67,7 @@ const Navbar = () => {
         <a href="#" className="button">Join Us</a>
       </div>
     </nav>
+
   );
 };
 
