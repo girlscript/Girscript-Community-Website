@@ -19,9 +19,11 @@
   }
   
   .nav-link {
-    font-size: 1.3em;
-    margin: 0px 15px;
+    font-size: 1.2em;
+    margin: 0px 8px;
+    font-weight: bold;
   }
+  
   
   .navbar-toggler {
     background-color: #e05d00;
