@@ -1,0 +1,32 @@
+#upcomingeve{
+    width: 18rem;
+    background-color :#95B9C7;
+    border-color :#3f978e;;
+    border-radius: 25em;
+    height: 30em;
+    text-align: center;
+    box-shadow: 10px 10px 20px #55afa6; ;
+}
+#upcomingeve:hover{
+    box-shadow: 0px 30px 18px -8px  #f5d5b6;;
+    transform: scale(1.05,1.05);
+}
+#txtstyling{
+    font-size:50px;
+    color:rgb(0, 0, 0);
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    text-shadow: rgb(250, 154, 130) 1px 0 10px;
+}
+.bgstyling{
+    background-color: #070268 ;
+}
+h3{
+    color: #f8dfd1;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+}
