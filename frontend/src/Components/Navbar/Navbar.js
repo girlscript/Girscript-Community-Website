@@ -1,5 +1,6 @@
 import React from "react"
 import NavComp from "./NavComp.js"
+import Logo from "./GS_logo_black(1).png";
 
 const Navbar = () => {
 

@@ -21,9 +21,28 @@
   .nav-link {
     font-size: 1.2em;
     margin: 0px 8px;
+    border-radius: 10%;
     font-weight: bold;
   }
+  @keyframes buttonAnimation {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
   
+  .nav-link:hover {
+    border-radius: 10%;
+    background-color: #e05d00;
+    color: white;
+    cursor: pointer;
+    animation: buttonAnimation 2s infinite;
+  }
   
   .navbar-toggler {
     background-color: #e05d00;
@@ -41,6 +60,7 @@
     padding: 10px;
     text-align: center;
   }
+  
   .mob-show{
     display: flex;
       flex-direction: row;
